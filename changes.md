@@ -31,3 +31,4 @@ THEN I find a concise, descriptive title
 4th- Changed the title from "website" to Horiseon Social Services & Solutions>
 5th- Also made minor changes to the CSS style by:
     A. Grouping sections with classes rathere than them being split individually (see notes on style.css)
+6th- Changed benefits lead, brand & cost margin to match the centered blocks margins.   

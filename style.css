@@ -81,11 +81,11 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: cornflowerblue;
 }
-/*consolidated this into a class section rather than having 3 seperate classes*/
+/*consolidated this into a class section rather than having 3 seperate classes. Also resized margin to match the centered boxes*/
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
-    margin-bottom: 32px;
+    margin-bottom: 13.5px;
     color: white;
 }
 /*Consolidated this section rather than having 3 seperate class lines*/
